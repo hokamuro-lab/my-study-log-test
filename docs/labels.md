@@ -31,6 +31,7 @@ Issueがどんな学習かをあとから見てもわかるように、最低で
 - `subject:science`: 理科の学習です
 - `subject:social`: 社会の学習です
 - `subject:programming`: プログラミングの学習です
+- `subject:technology`: 技術分野の学習です
 
 ## 学習の種類
 

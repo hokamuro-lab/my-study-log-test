@@ -30,6 +30,11 @@
     "color": "1f77b4"
   },
   {
+    "name": "subject:technology",
+    "description": "技術分野の学習です",
+    "color": "1f77b4"
+  },
+  {
     "name": "type:concept",
     "description": "言葉や仕組みの意味を理解する学習です",
     "color": "5319e7"
